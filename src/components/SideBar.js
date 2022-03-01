@@ -70,7 +70,7 @@ function SideBar(){
 
                 {/*<!-- Nav Item - Tables -->*/}
                 <li className="nav-item nav-link">
-                    <Link className="nav-link" to="/SearchMovies">
+                    <Link className="nav-link" to="/search">
                         <i className="fas fa-search"></i>
                         <span>Search a movie</span>
                     </Link>

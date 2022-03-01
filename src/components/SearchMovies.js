@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef } from 'react';
+import React from 'react';
 
 import noPoster from '../assets/images/no-poster.jpg';
 
@@ -20,7 +20,7 @@ function SearchMovies(){
 	const keyword = 'PELÍCULA DEMO';
 
 	// Credenciales de API
-	const apiKey = 'X'; // Intenta poner cualquier cosa antes para probar
+	const apiKey = '4cf1ab5e'; // Intenta poner cualquier cosa antes para probar
 
 	return(
 		<div className="container-fluid">
